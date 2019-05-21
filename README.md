@@ -50,7 +50,7 @@ After clicking *Buy Now* button or *Cart Icon* in Navbar. The User can view the 
 
 ### Card Payment
 
-Our secure payment method, allows the User to make Payment wit ease.
+Our secure payment method, allows the User to make Payment with ease.
 
 ![Card Payment](./src/img/screenshots/Screen%20Shot%202019-05-17%20at%203.00.39%20am.png "Card Payment")
 
