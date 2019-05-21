@@ -24,7 +24,7 @@ Simply anyone can view our site and browse through the amazing range of products
 
 ### Nav Bar Dropdown to Search Products
 
-*Users* can find their favourite product by filtering either through the ***Navbar Dropdown*** or can visit the ***All Products*** pgae and can filter through the search form.
+*Users* can find their favourite product by filtering either through the ***Navbar Dropdown*** or can visit the ***All Products*** page and can filter through the search form.
 
 ![Nav Dropdown](./src/img/screenshots/navbarfilter.png "navbar")
 
