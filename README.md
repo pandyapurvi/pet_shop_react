@@ -1,6 +1,7 @@
 # Pamper My Pet
 
 ## Shop Here: 
+[Live Demo](https://pandyapurvi.github.io/pamper_my_pet/#/)
 
 [Pamper My Pet - Version 1](https://mmborres.github.io/pamper-my-pet) 
 
